@@ -32,3 +32,19 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" /
 </p>
 
+## **📊 Github Stats**
+
+<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=VitorFrid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFrid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
+
+
+
+## 📫 Contact
+<img src="https://github.com/user-attachments/assets/e01ae388-ff3a-45e2-9907-d42446b87baf" align="right" width="120">
+
+**Please Contact me on Discord for a quick response:** [drakkov](https://discord.com/users/738748102311280681)
+- 📧 Email: victorhugomonteiro387@gmail.com
+  
+
+
