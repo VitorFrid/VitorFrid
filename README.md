@@ -1,4 +1,4 @@
-<img width="736" height="245" alt="557981462b2529d01c12a368a3250d30" src="https://github.com/user-attachments/assets/487b855d-5bbd-4ad4-a95e-577d71302cc5" align="center" />
+<img width="736" height="245" alt="557981462b2529d01c12a368a3250d30" src="https://github.com/user-attachments/assets/487b855d-5bbd-4ad4-a95e-577d71302cc5"/>
 
 
 
@@ -12,7 +12,8 @@
 <img src="https://github.com/user-attachments/assets/9edb7202-b688-4a72-b648-f8f33d042759" align="left" width="140">
 
 
-- Name: **Vitor** 
+- Name: **Vitor**
+- Age: 18
 - Residing in: **Brasil**
 - Hobbies: **Playing games, watching anime, and studying programming**
 - Work: **UNEMPLOYED**
@@ -22,6 +23,12 @@
 ## **💻 Experience**
 <img src="https://github.com/user-attachments/assets/d192e191-dd60-4ac6-896c-350ed1f7be1e" align="right" width="120">
 
-- Useless, lazy, unmotivated, and literally no survival skills in this society.
-- As a Hikikomori and NEET, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
-- I have a passion for anime, and I love to cosplay as my favorite characters.
+- What started as a hobby became a passion — now I'm working to turn it into my career.
+- I’m really into anime and manga, passionate about music, and I enjoy experimenting with tech stuff, especially building websites and systems or gaming gear.
+- 💼 Early in my journey, but dedicated to building solid projects and growing as a developer.
+
+## **⚡ languages ​​and technologies⚡**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" /
+</p>
+
