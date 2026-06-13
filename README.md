@@ -25,9 +25,9 @@ I work with both frontend and backend technologies, and I’m constantly improvi
 
 <br/>
 
-**Frontend Developer**  
+**Front/backend Developer**  
 **React / Next.js / TypeScript**  
-**Modern UI & clean architecture**  
+**Modern UI & clean code/architecture**  
 **Strong GitHub collaboration mindset**
 
 </div>
