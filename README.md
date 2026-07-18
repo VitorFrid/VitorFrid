@@ -21,12 +21,12 @@
 
 <h2>About me</h2>
 
-Hello, I'm Vitor an aspiring Fullstack Developer focused on building modern, scalable, and well-structured web applications.
+Hello, I'm Vitor an aspiring back end Developer focused on building modern, scalable, and well-structured web applications.
 I work with both frontend and backend technologies, and I’m constantly improving my understanding of system architecture, performance, and best development practices through hands-on projects
 
 <br/>
 
-**Front/backend Developer**  
+**Software Developer/Security Engineer**  
 **React / Next.js / TypeScript**  
 **Modern UI & clean code/architecture**  
 **Strong GitHub collaboration mindset**
@@ -41,10 +41,9 @@ I work with both frontend and backend technologies, and I’m constantly improvi
 
 <h3>Core Technologies</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
