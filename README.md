@@ -21,7 +21,7 @@
 
 <h2>About me</h2>
 
-Hello, I'm Vitor an aspiring back end Developer focused on building modern, scalable, and well-structured web applications.
+Hello, I'm Vitor an aspiring backend Developer focused on building modern, scalable, and well-structured web applications.
 I work with both frontend and backend technologies, and I’m constantly improving my understanding of system architecture, performance, and best development practices through hands-on projects
 
 <br/>
