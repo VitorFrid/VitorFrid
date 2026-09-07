@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorFrid)
 [![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/646826089657925644)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugomonteiro387@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drakkoo.v)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/v1tor.frid/))
 
 </div>
 
@@ -21,12 +21,12 @@
 
 <h2>About me</h2>
 
-Hello, I'm Vitor an aspiring backend Developer focused on building modern, scalable, and well-structured web applications.
+Hello, I'm Vitor an aspiring fullstack Developer focused on building modern, scalable, and well-structured web applications.
 I work with both frontend and backend technologies, and I’m constantly improving my understanding of system architecture, performance, and best development practices through hands-on projects
 
 <br/>
 
-**Software Developer/Security Engineer**  
+**Software Developer/FullStack**  
 **React / Next.js / TypeScript**  
 **Modern UI & clean code/architecture**  
 **Strong GitHub collaboration mindset**
